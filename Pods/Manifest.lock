@@ -1,0 +1,34 @@
+PODS:
+  - OHHTTPStubs/Core (9.0.0)
+  - OHHTTPStubs/Default (9.0.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.0.0)
+  - OHHTTPStubs/Swift (9.0.0):
+    - OHHTTPStubs/Default
+
+DEPENDENCIES:
+  - OHHTTPStubs/Swift (from `https://github.com/AliSoftware/OHHTTPStubs.git`, commit `e92b5a5746ef16add2a1424f1fc19529d9a75cde`)
+
+EXTERNAL SOURCES:
+  OHHTTPStubs:
+    :commit: e92b5a5746ef16add2a1424f1fc19529d9a75cde
+    :git: https://github.com/AliSoftware/OHHTTPStubs.git
+
+CHECKOUT OPTIONS:
+  OHHTTPStubs:
+    :commit: e92b5a5746ef16add2a1424f1fc19529d9a75cde
+    :git: https://github.com/AliSoftware/OHHTTPStubs.git
+
+SPEC CHECKSUMS:
+  OHHTTPStubs: cb29d2a9d09a828ecb93349a2b0c64f99e0db89f
+
+PODFILE CHECKSUM: 0d3417df5392549092947ea0a9709f8446e7813b
+
+COCOAPODS: 1.9.3
