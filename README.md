@@ -1,4 +1,4 @@
-## Installatiton
+## Installation
 Open `500px.xcworkspace` and select the 500px target to run the application or unit tests
 
 
